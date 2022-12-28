@@ -1,0 +1,108 @@
+@charset "UTF-8";
+
+body{
+	margin:0;
+	padding:0;
+	background-image:url("https://c0.wallpaperflare.com/preview/946/377/129/indian-flag-tricolor-india-flag.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+nav{
+	padding-top:15px;
+	padding-bottom:15px;
+	background-color: orange;
+	font-size:30px;
+	color:white;
+	display:flex;
+	justify-content:right;
+	
+}
+
+nav a{
+	color:white;
+	
+	padding-left:15px;
+	padding-right:15px;
+}
+
+ nav a:hover{
+ color:black;
+ } 
+ 
+ .cheaktable img{
+  height:90px;
+   width:90px;
+  
+ }
+ 
+ .cheaktable{
+background-color:white;
+height:87vh;
+display:flex;
+justify-content:center;
+align-items:center;
+font-size:30px;
+ }
+ 
+ .cheaktable td,th{
+ padding: 10px 60px;
+ }
+  .form-container{
+ background-color:#FEFCF3;
+ font-size:20px;
+ width:30%;
+ display:flax;
+ justify-content:center;
+ margin-left:60%;
+
+ margin-top:15%;
+ border-radius: 15px;
+ padding-top:40px;
+ padding-left:40px;
+ 
+ padding-bottom:40px;
+ }
+ .form-container input,button{
+ width:250px;
+ height:25px;
+ margin:15px;
+ margin-left:75px;
+ background-color:#1E90FF;
+ border-radius: 15px;
+ }
+ .form-container button{
+	width:258px;
+	height:28px;
+ }
+ .form-container h3,label{
+   margin-left:44px;
+ }
+ .form-container a{
+ margin-left:40%;
+ color :black;
+ }
+ .form-container a:hover{
+ color :#1E90FF;
+ }
+ .form-container select{
+ width:260px;
+ height:30px;
+ margin:15px;
+ margin-left:75px;
+ background-color:#1E90FF;
+ border-radius: 15px;
+ }
+ .buttoncolor{
+    background-color:#1E90FF;
+    font-size:20px;
+    padding-left:60px;
+    padding-right:60px;
+    border-radius: 15px;
+    justify-content:center;
+    margin-left:60%;
+    
+    
+ }
+ 
+ 
